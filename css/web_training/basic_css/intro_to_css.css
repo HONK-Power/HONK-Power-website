@@ -1,0 +1,16 @@
+p /* Selection of all paragraphs in the webpage. */ {
+	color: blue; /* All paragraphs are colored in blue. */
+}
+
+.dummy_class /* Selection of HTML tags with the "dummy_class" class. */ {
+	color: yellow; /* HTML tags with the "dummy_class" class are colored in yellow. */
+}
+
+#dummy_id /* Selection of HTML tags with the "dummy_id" id. */ {
+	color: blueviolet; /* HTML tags with the "dummy_id" id are colored in purple (or blueviolet). */
+}
+
+h3,
+h5 /* Selection of h3 and h5 html tags. */ {
+	color: hotpink; /* h3 and h5 HTML tags are colored in pink. */
+}
